@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <h3 align="left">My name is Sandip Shrestha.</h3>
 
 ###
