@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Nest.js, Next.js and Material UI.</p>
+<p align="left">📚 I'm currently learning Nest.js.</p>
 
 ###
 
