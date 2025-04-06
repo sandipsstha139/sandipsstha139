@@ -10,7 +10,7 @@ I'm **Sandip Shrestha**, a Backend Developer from Kathmandu, Nepal. I specialize
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **ORMs:** Prisma, Sequelize, Mongoose
 - **Tools & Platforms:** Docker, RabbitMQ, Nginx, Git, GitHub Actions, Verdaccio
-- **Others:** GraphQL, RESTful APIs, JWT Authentication
+- **Others:** GraphQL, RESTful APIs
 
 ## 📚 Currently Learning
 
