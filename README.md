@@ -19,6 +19,8 @@ I'm currently enhancing my skills in Nest.js to build more efficient and scalabl
 ## 📫 Contact Me
 
 - **Portfolio:** [sandipshrestha1.com.np](https://sandipshrestha1.com.np/)
+- **Email:** **sandipstha139@gmail.com**
+- **LinkedIn:** [Sandip Shrestha](https://www.linkedin.com/in/sandip-shresthaa/)
 
 [![](https://visitcount.itsvg.in/api?id=sandipsstha139&icon=0&color=0)](https://visitcount.itsvg.in)
 
