@@ -1,14 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there! 👋
 
-###
+I'm **Sandip Shrestha**, a Backend Developer from Kathmandu, Nepal. I specialize in building secure and scalable APIs and have experience in full-stack development.
 
-<h3 align="left">My name is Sandip Shrestha.</h3>
+## 🔧 Skills
 
-###
+- **Programming Languages:** JavaScript, TypeScript, Python, C, C++
+- **Backend:** Node.js, Express.js, NestJS, Strapi, Django
+- **Frontend:** React.js, Next.js, Tailwind CSS, Material UI
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **ORMs:** Prisma, Sequelize, Mongoose
+- **Tools & Platforms:** Docker, RabbitMQ, Nginx, Git, GitHub Actions, Verdaccio
+- **Others:** GraphQL, RESTful APIs, JWT Authentication
 
-<p align="left">📚 I'm currently learning Nest.js.</p>
+## 📚 Currently Learning
 
-###
+I'm currently enhancing my skills in Nest.js to build more efficient and scalable server-side applications.
+
+## 📫 Contact Me
+
+- **Portfolio:** [sandipshrestha1.com.np](https://sandipshrestha1.com.np/)
 
 [![](https://visitcount.itsvg.in/api?id=sandipsstha139&icon=0&color=0)](https://visitcount.itsvg.in)
 
