@@ -22,10 +22,6 @@ I'm currently enhancing my skills in Nest.js to build more efficient and scalabl
 - **Email:** **sandipstha139@gmail.com**
 - **LinkedIn:** [Sandip Shrestha](https://www.linkedin.com/in/sandip-shresthaa/)
 
-[![](https://visitcount.itsvg.in/api?id=sandipsstha139&icon=0&color=0)](https://visitcount.itsvg.in)
-
-###
-
 <h2 align="left">Tech Stack</h2>
 
 ###
